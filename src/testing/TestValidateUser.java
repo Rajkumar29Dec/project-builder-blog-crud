@@ -1,6 +1,6 @@
 package testing;
 
-/*Uncomment the below code test your application
+///*Uncomment the below code test your application
 import static org.junit.Assert.*;
 import org.junit.Test;
 
@@ -23,4 +23,4 @@ public class TestValidateUser {
 		}
 	}
 }
-*/
+//*/

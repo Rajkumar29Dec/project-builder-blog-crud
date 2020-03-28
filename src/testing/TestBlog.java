@@ -1,6 +1,6 @@
 package testing;
 
-/*Uncomment the below code test your application
+///*Uncomment the below code test your application
 import static org.junit.Assert.*;
 
 import java.time.LocalDate;
@@ -31,4 +31,4 @@ public class TestBlog {
 		 }
 	 }
 }
-*/
+//*/

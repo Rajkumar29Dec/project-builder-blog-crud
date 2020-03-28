@@ -9,13 +9,13 @@ import model.Blog;
 public class CRUDOperations {
 	static List<Blog> list=new ArrayList<Blog>(); // Store the blog in the list
 	
-	public List<Blog> createBlog(Blog blog) throws IOException {
+	public List<Blog> addBlog(Blog blog) throws IOException {
 		list.add(blog);
-		return list;
 	}
 	
 	public List<Blog> viewBlog(Blog blog) throws IOException{
-		return null;
+		System.out.print(list);
+		return list;
 		
 	}
 	public List<Blog> updateBlog(Blog blog) throws IOException{
